@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projeto-Audaz/1.0.0": {
+        "dependencies": {
+          "Google.Api.CommonProtos": "2.4.0"
+        },
+        "runtime": {
+          "Projeto-Audaz.dll": {}
+        }
+      },
+      "Google.Api.CommonProtos/2.4.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.18.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.CommonProtos.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.18.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.18.0.0",
+            "fileVersion": "3.18.0.0"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {}
+    }
+  },
+  "libraries": {
+    "Projeto-Audaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Api.CommonProtos/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vGHfsxJ9vvBKMfOuzE1ba/dWEsrrXtQFyZm5hqOjXfP/IxUe2ZWs+kSOLB0mND0iGIBvdjO6H02UCDBBB5Igjg==",
+      "path": "google.api.commonprotos/2.4.0",
+      "hashPath": "google.api.commonprotos.2.4.0.nupkg.sha512"
+    },
+    "Google.Protobuf/3.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jm6+nppUm9LD+XVsLFkf1YyVlAKsG5gq+Hc/Rn3Zi2pDObBI6PCH/eHBFUJdARl40DpczEdHlV3+WTPOGIXetg==",
+      "path": "google.protobuf/3.18.0",
+      "hashPath": "google.protobuf.3.18.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    }
+  }
+}
