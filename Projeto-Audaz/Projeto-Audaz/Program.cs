@@ -13,6 +13,8 @@ namespace TestePleno
     {
         static void Main(string[] args)
         {
+
+            // Criando a variável de tarifa e o seu respectivo ID.
             var fare = new Fare();
             fare.Id = Guid.NewGuid();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\Desktop\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj": {}
+    "C:\\Users\\nicol\\Documents\\GitHub\\AudazProject\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\Desktop\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj": {
+    "C:\\Users\\nicol\\Documents\\GitHub\\AudazProject\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Documents\\GitHub\\AudazProject\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj",
         "projectName": "Projeto-Audaz",
-        "projectPath": "C:\\Users\\nicol\\Desktop\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj",
+        "projectPath": "C:\\Users\\nicol\\Documents\\GitHub\\AudazProject\\Projeto-Audaz\\Projeto-Audaz\\Projeto-Audaz.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Desktop\\Projeto-Audaz\\Projeto-Audaz\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\Documents\\GitHub\\AudazProject\\Projeto-Audaz\\Projeto-Audaz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
